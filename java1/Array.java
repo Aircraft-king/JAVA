@@ -9,6 +9,7 @@ public class Array<E>{
     }
     public Array(){
         this(10);
+		
     }
     public int getCapacity(){
         return data.length;
