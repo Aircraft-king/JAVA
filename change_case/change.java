@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class change {
     private String str;
+	
 
     change(String str){
         this.str = str;
